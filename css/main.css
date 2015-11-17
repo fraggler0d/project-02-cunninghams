@@ -1,0 +1,152 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: geosans, helvetica, sans-serif;
+}
+
+.about-us-desc {
+	font-family: caviardreams;
+	font-style: normal;
+	font-weight: 400;
+	letter-spacing: .1em;
+	font-size: 12px;
+	background: #000;
+	color: #fff;
+}
+
+.hero {
+	font-family: neouthin;
+	font-size: 50px;
+	text-transform: uppercase;
+	height: 500px;
+	background: url('http://cunninghamstowson.com/wp-content/uploads/2014/05/190.jpg') center center no-repeat;
+	background-size: cover;
+	color: #fff;
+}
+
+.menu-kitchen {
+	background: #000;
+	color: #fff;
+}
+
+.menu-items {
+	margin-left: 0;
+	list-style: none;
+	background: #000;
+	color: #fff;
+}
+
+.menu-item {
+	background: #000;
+	color: #fff;
+}
+
+.menu-item + .menu-item {
+	margin-top: 15px;
+}
+
+.menu-section-title {
+	margin-top: 30px;
+	margin-bottom: 15px;
+}
+
+.menu-item-title {
+	font: geneva;
+	font-size: 16px;
+	font-weight: bold;
+	text-transform: uppercase;
+	background: #000;
+	color: #fff;
+}
+
+.menu-item-desc,
+.menu-item-pairing {
+	margin: 0;
+	font-style: italic;
+	text-transform: lowercase;
+}
+
+.menu-item-desc {
+	font-size: 12px;
+}
+
+.menu-item-pairing {
+	font-size: 10px;
+	font-weight: 900;
+	color: #42A8A8;
+}
+	
+.pairing-type {
+	font-style: normal;
+	font-weight: 900;
+	text-transform: uppercase;
+	letter-spacing: .1em;
+}
+
+.menu-section-title {
+	font: arial;
+	font-size: 22px;
+	font-weight: 100;
+	text-transform: lowercase;
+}
+
+.chef-title {
+	margin-top: 30px;
+	margin-bottom: 15px;
+	font: arial;
+	font-size: 22px;
+	font-weight: 100;
+	text-transform: lowercase;
+}
+
+.chef-description {
+	font-family: caviardreams;
+	font-size: 14px;
+	font-weight: 800;
+	text-transform: uppercase;
+}
+
+.chef-details {
+	font-family: caviardreams;
+	font-style: normal;
+	font-weight: 400;
+	letter-spacing: .1em;
+	font-size: 12px;
+}
+
+.farm-desc {
+	font-family: caviardreams;
+	font-style: normal;
+	font-weight: 400;
+	letter-spacing: .1em;
+	font-size: 12px;
+	background: #000;
+	color: #fff;
+}
+
+.menu {
+	margin-top: 15px;
+	margin-left: 15px;
+	background: #000;
+	color: #fff;
+}
+
+.about,
+.farm,
+.chefs,
+.menu {
+	margin-top: 30px;
+	margin-bottom: 15px;
+	margin-left: 10px;
+	background: #000;
+	color: #fff;
+}
+
+.about-title,
+.farm-header {
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
