@@ -23,7 +23,6 @@ h6 {
 	text-transform: uppercase;
 	height: 500px;
 	background: url('http://cunninghamstowson.com/wp-content/uploads/2014/05/190.jpg') center center no-repeat;
-	background-size: cover;
 	color: #fff;
 }
 
@@ -134,9 +133,33 @@ h6 {
 	color: #fff;
 }
 
-.about,
-.farm,
-.chefs,
+.about {
+	margin-top: 30px;
+	margin-bottom: 15px;
+	margin-left: 10px;
+	background: #000;
+	color: #fff;
+	display: block;
+}
+
+.farm {
+	margin-top: 30px;
+	margin-bottom: 15px;
+	margin-left: 10px;
+	background: #000;
+	color: #fff;
+	display: block;
+}
+
+.chefs {
+	margin-top: 30px;
+	margin-bottom: 15px;
+	margin-left: 10px;
+	background: #000;
+	color: #fff;
+	display: block;
+}
+
 .menu {
 	margin-top: 30px;
 	margin-bottom: 15px;
@@ -149,5 +172,15 @@ h6 {
 .about-title,
 .farm-header {
 	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.div {
+	display: inline-block;
+}
+
+img {
+	height: 450px;
+	width: 300px;
 	margin-bottom: 15px;
 }
